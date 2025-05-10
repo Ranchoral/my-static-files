@@ -44,12 +44,12 @@ var config = {
     
     
     desc: {
-        turn_on: "点击这里开始",
+        turn_on: "点击这里开始20岁生日",
         play: "上音乐",
         bannar_coming: "生日快乐！！",
         balloons_flying: "好像还少点东西",
-        cake_fadein: "我喜欢戴戴",
-        light_candle: "我超级喜欢戴戴",
+        cake_fadein: "康康给涵涵的赛博蛋糕",
+        light_candle: "点上蜡烛",
         wish_message: "哈哈哈哈哈生日快乐啦～",
         story: "查看戴戴给涵涵的信"
     },
